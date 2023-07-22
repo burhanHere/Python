@@ -2,7 +2,6 @@ import platform
 import os
 # import subprocess
 
-
 if __name__ == "__main__":
     while True:
         textByUser = str("tum yaha aammb lana ayy ho!!!")
