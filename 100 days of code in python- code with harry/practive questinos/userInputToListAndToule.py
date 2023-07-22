@@ -1,0 +1,6 @@
+userInput=input("Enter sequence of coma seprated numbers: ")
+mylist=userInput.split(',')
+mytuple=tuple(mylist)
+print("userInput: ",userInput)
+print("myList: ",mylist)
+print("myTuple: ",mytuple)
